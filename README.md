@@ -11,9 +11,12 @@ Here is my portfolio, where I have various projects in different [fields/hobbies
 - Database: Google BigQuery, PostgreSQL, Microsoft SQL Server
 - Python: NumPy, Pandas, Scikit-learn, Matplotlib, Plotly, Seaborn, Statsmodel, TensorFlow
 - R: tidyverse, ggplot2, tidyr, dplyr, lubridate, lmtest, sunburstR
-- Business Intelligence: Tableau, PowerBI
+- Business Intelligence: SAS, Tableau, PowerBI
 
 
 ### 🎓 Certifications
 
-- 
+- Nvidia’s Fundamentals of Deep Learning
+- Google’s Data Analytics 
+- Google’s Advance Data Analytics
+- SAS’s Visual Business Analytics
