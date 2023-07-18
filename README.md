@@ -4,7 +4,7 @@ Howdy! My name is Julio Alvarez, and I am currently looking for a job in the dat
 
 ### 📚 Projects
 
-Here is my portfolio, where I have various projects in different [fields/hobbies](Portfolio) 
+Here is my portfolio, where I have various projects in different [fields/hobbies](#Portfolio) 
 
 ### 🛠️ Tools
 
