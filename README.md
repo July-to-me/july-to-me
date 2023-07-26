@@ -30,7 +30,7 @@ During college, I had various leadership roles that made me the person that I am
   - Crafted strong long-lasting personal connections with upperclassmen & Latino leaders in Texas A&M.
   - Hosted cultural events throughout spring and fall semesters in regard to real-life tragedies amongst the Latinx communities and brought awareness to dilemmas such as mental health and immigration.
  
- - The Marketing and Engagement Director for Latino Logradores
+- The Marketing and Engagement Director for Latino Logradores
   - A freshman organization supporting Latinx students by contributing students with a friendly atmosphere and mentorship to achieve a valuable and meaningful first year at Texas A&M.
   - Led community events both virtually and physically creating a welcoming, remarkable, and fulfilling environment for video game enthusiasts.
   - Promptly discuss events built by LatiLo delivered throughout 2019-2020 school year by numerous social media outlets (Twitter, Instagram, Facebook, GroupMe, and Discord)
