@@ -1,6 +1,6 @@
 ## Greetings from Houston! 👋
 
-Howdy! My name is Julio Alvarez, and I am currently looking for a job in the data analytics field. I have a great amount of knowledge when it comes to Python and R. I will say that I am still a beginner when it comes to SQL, and Tableau/PowerBI, but I am enjoying the process of becoming much more knowledgeable in those platforms. As of right now, I have only created various projects that showcase my skills in the data analytics field. While I do not have proper domain knowledge, I am passionate about learning a myriad of fields as I am a longtime learner! I am open to opportunities that relate to Data Science, Data Analytics, Business Intelligence, Data Engineering, and Teaching!
+Howdy! My name is Julio Alvarez, and I am currently looking for a job in the data analytics field. I have a significant amount of knowledge when it comes to Python and R. I will say that I am still a beginner when it comes to SQL, and Tableau/PowerBI, but I am enjoying the process of becoming much more knowledgeable in those platforms. As of right now, I have only created various projects that showcase my skills in the data analytics field. While I do not have proper domain knowledge, I am passionate about learning a myriad of areas as I am a longtime learner! I am open to opportunities that relate to Data Science, Data Analytics, Business Intelligence, Data Engineering, and Teaching!
 
 ### 📚 Projects
 
@@ -20,3 +20,10 @@ Here is my portfolio, where I have various projects in different [fields/hobbies
 - Google’s Data Analytics 
 - Google’s Advance Data Analytics
 - SAS’s Visual Business Analytics
+
+### 🏫 Leadership Roles/Positions
+
+During college, I had various leadership roles that made me the person that I am today. I am passionate about helping those from a similar cultural and economic background. I hope that someday I will be able to help as many people achieve their dream of climbing up the social/economic ladder as I currently am! Here are the positions that I worked in.
+- A Mentor for Latino Males United (08/208-05/2022)
+- The Engagement and Marketing Director for Latino Logradores (08/2019-05/2021)
+- The Event Coordinator for Texas A&M eSports (06/2021-05/2022)
