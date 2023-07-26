@@ -27,9 +27,8 @@ During college, I had various leadership roles that made me the person that I am
 
 - A Mentor for Latino Males United (08/208-05/2022)
   - A mentorship for freshman Latino males geared to reconnect to Latinx American culture
-                  - Sub-nested bullet etc
-          - Crafted strong long-lasting personal connections with upperclassmen & Latino leaders in Texas A&M
-          -Hosted cultural events throughout spring and fall semesters in regard to real-life tragedies amongst the Latinx communities and brought awareness to dilemmas such as mental health and immigration
+  - Crafted strong long-lasting personal connections with upperclassmen & Latino leaders in Texas A&M
+  -Hosted cultural events throughout spring and fall semesters in regard to real-life tragedies amongst the Latinx communities and brought awareness to dilemmas such as mental health and immigration
 
  Markup : - The Engagement and Marketing Director for Latino Logradores (08/2019-05/2021)
               - Nested bullet
