@@ -25,8 +25,8 @@ Here is my portfolio, where I have various projects in different [fields/hobbies
 
 During college, I had various leadership roles that made me the person that I am today. I am passionate about helping those from a similar cultural and economic background. I hope that someday I will be able to help as many people achieve their dream of climbing up the social/economic ladder as I currently am! Here are the positions that I worked in.
 
-Markup : - A Mentor for Latino Males United (08/208-05/2022)
-              - A mentorship for freshman Latino males geared to reconnect to Latinx American culture
+- A Mentor for Latino Males United (08/208-05/2022)
+  - A mentorship for freshman Latino males geared to reconnect to Latinx American culture
                   - Sub-nested bullet etc
           - Crafted strong long-lasting personal connections with upperclassmen & Latino leaders in Texas A&M
           -Hosted cultural events throughout spring and fall semesters in regard to real-life tragedies amongst the Latinx communities and brought awareness to dilemmas such as mental health and immigration
