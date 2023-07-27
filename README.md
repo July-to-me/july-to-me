@@ -19,6 +19,7 @@ Here is my portfolio, where I have various projects in different [fields/hobbies
 - Nvidia’s Fundamentals of Deep Learning
 - Google’s Data Analytics 
 - Google’s Advance Data Analytics
+- Google's Business Intelligence Professional Certification
 - SAS’s Visual Business Analytics
 
 ### 🏫 Leadership Roles/Positions
